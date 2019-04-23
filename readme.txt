@@ -5,4 +5,4 @@ Git tracks changes.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
 热爱多么
-bug 已修复
+我又是另外的一个bug

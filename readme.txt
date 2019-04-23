@@ -7,3 +7,7 @@ Creating a new branch is quick and simple.
 热爱多么
 我要修改不了
 bug1
+我有一个bug
+
+huanhang le 
+在吃换行
